@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 486.32181 248.66338"
+   xml:space="preserve"
+   id="svg122"
+   sodipodi:docname="logo_sqr.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="600"
+   height="600">
+   <metadata
+   id="metadata128">
+      <rdf:RDF>
+         <cc:Work
+   rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+         <dc:title></dc:title></cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs
+   id="defs126" />
+   <sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1600"
+   inkscape:window-height="847"
+   id="namedview124"
+   showgrid="false"
+   inkscape:zoom="0.77621444"
+   inkscape:cx="447.07211"
+   inkscape:cy="242.97436"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg122"><inkscape:grid
+     type="xygrid"
+     id="grid4856"
+     originx="6.2653007"
+     originy="-202.43425" /></sodipodi:namedview>
+   <style
+   type="text/css"
+   id="style70">
+      .st2{fill:#41BEE3;}
+      .st3{fill:#4D5E9A;}
+      .st4{fill:#663A8E;}
+      .st6{fill:#767171;}
+   </style>
+   <g
+   id="MosaicLogo"
+   transform="matrix(0.9754079,0,0,0.97540821,-82.832712,-332.97432)">
+      <g
+   id="LogoImage"
+   transform="translate(0,26.656609)">
+         <polygon
+   class="st2"
+   points="189.31,484.81 289.51,384.61 289.42,384.52 334.69,339.25 284.69,289.25 284.6,289.33 284.51,289.25 189.24,384.52 189.32,384.61 89.12,484.81 184.39,580.09 234.49,529.99 "
+   id="polygon95"
+   style="fill:#007bff;fill-opacity:1" />
+         <rect
+   class="st2"
+   x="349.37"
+   y="494.54999"
+   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-262.0519,427.3185)"
+   width="70.839996"
+   height="70.870003"
+   id="rect97"
+   style="fill:#007bff;fill-opacity:1" />
+         <rect
+   class="st3"
+   x="249.16"
+   y="494.56"
+   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-291.401,356.4636)"
+   width="70.870003"
+   height="70.839996"
+   id="rect99"
+   style="fill:#6f4264;fill-opacity:1" />
+         <polygon
+   class="st3"
+   points="484.99,580.09 580.26,484.81 480.06,384.61 480.14,384.52 384.87,289.25 384.78,289.33 384.7,289.25 334.69,339.25 379.96,384.52 379.87,384.61 480.08,484.81 434.9,529.99 "
+   id="polygon101"
+   style="fill:#6f4264;fill-opacity:1" />
+         <polygon
+   class="st4"
+   points="480.08,484.81 379.87,384.61 379.96,384.52 334.69,339.25 289.42,384.52 289.51,384.61 189.31,484.81 234.49,529.99 284.6,479.88 334.69,529.97 384.78,479.88 434.9,529.99 "
+   id="polygon103"
+   style="fill:#5e2ced;fill-opacity:1" />
+      </g>
+      
+   </g>
+</svg>
